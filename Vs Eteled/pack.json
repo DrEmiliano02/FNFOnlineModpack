@@ -1,0 +1,7 @@
+{
+	"name": "Vs Eteled",
+	"description": "angy umm port",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

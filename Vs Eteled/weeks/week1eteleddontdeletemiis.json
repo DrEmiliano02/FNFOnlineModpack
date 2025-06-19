@@ -1,0 +1,77 @@
+{
+	"storyName": "go crazy go stupid",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"dream-of-peace",
+			"eteled1",
+			[
+				125,
+				150,
+				201
+			]
+		],
+		[
+			"diagraphephobia",
+			"eteled2",
+			[
+				82,
+				112,
+				170
+			]
+		],
+		[
+			"post-mortal",
+			"austin",
+			[
+				180,
+				24,
+				24
+			]
+		],
+		[
+			"plaything",
+			"eteled2",
+			[
+				125,
+				150,
+				201
+			]
+		],
+		[
+			"system-failure",
+			"eteled2",
+			[
+				82,
+				112,
+				170
+			]
+		],
+		[
+			"bananeled",
+			"wut",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Crazy mf that wants to kill u"
+}
